@@ -8,5 +8,3 @@ https://www.filipeflop.com/blog/temperatura-umidade-dht11-com-raspberry-pi/
 https://robozera.com/2017/01/05/sensor-de-luz-ldr-raspberry-pi/
 https://pimylifeup.com/raspberry-pi-distance-sensor/
 
-Imagens da página web funcionando em:
-https://www.facebook.com/rodrigo.r.dearaujo/photos_all
